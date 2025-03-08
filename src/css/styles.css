@@ -74,3 +74,9 @@ a {
 .simple-lightbox {
   background-color: rgba(46, 47, 66, 0.8);
 }
+
+.feedback-form {
+  display: flex;
+  flex-direction: column;
+  width: 360px;
+}
